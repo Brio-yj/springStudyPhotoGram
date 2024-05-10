@@ -18,7 +18,7 @@ public class HttpController {
 
     @PutMapping("/put")
     public String put() {
-        return "put요청됨";
+        return "p요청됨";
 
     }
 
